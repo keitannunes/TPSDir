@@ -1,1 +1,1 @@
-https://egts.ca/updater/
+https://webui.egts.ca/updater/
